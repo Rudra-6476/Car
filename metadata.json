@@ -1,0 +1,6 @@
+{
+  "name": "APEX SCARLET GT",
+  "description": "Exclusive crimson hypercar experience featuring interactive aerodynamics, engine rev audio simulator, custom finish configurator, and cinematic video animation stage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
