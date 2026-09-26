@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
 # Run and deploy your AI Studio app
 
 This repository contains the "APEX SCARLET GT" React application—an exclusive crimson hypercar experience featuring interactive aerodynamics, engine rev audio simulator, custom finish configurator, and cinematic video animation stage.
