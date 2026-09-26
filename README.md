@@ -4,17 +4,29 @@
 
 # Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+This repository contains the "APEX SCARLET GT" React application—an exclusive crimson hypercar experience featuring interactive aerodynamics, engine rev audio simulator, custom finish configurator, and cinematic video animation stage.
+
+This guide contains everything you need to run the app locally.
 
 View your app in AI Studio: https://ai.studio/apps/88e163d7-6c51-4a66-87d9-62667ca39adb
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+   ```bash
+   npm install
+   ```
+
+2. Configure environment variables:
+   Copy the example environment file to create your local config.
+   ```bash
+   cp .env.example .env.local
+   ```
+   Then, open `.env.local` and set the `GEMINI_API_KEY` to your Gemini API key.
+
 3. Run the app:
-   `npm run dev`
+   ```bash
+   npm run dev
+   ```
